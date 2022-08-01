@@ -13,16 +13,16 @@ global.APIKeys = {
 
 // Other
 global.namabot = ['AzzBot-MD']
-global.namaowner = ['YahyaGanzz']
-global.owner = ['6281511480762']
-global.premium = ['6281511480762']
+global.namaowner = ['AzriL']
+global.owner = ['6282147244748']
+global.premium = ['6282147244748']
 global.packname = 'AzzBot-MD'
 global.author = 'WhatsApp•Bot'
 global.sessionName = 'Xavior'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'DoaMu Terkabulkan',
+    success: 'Sukses',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Jadikan Bot Admin Terlebih Dahulu!',
     owner: 'Khusus Owner Bot',
